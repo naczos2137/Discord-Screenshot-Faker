@@ -1,0 +1,6 @@
+k: siema  
+i: siema. jak pomóc?  
+k: umiesz zrobić bota do discorda, co odpala komendy z plików txt?  
+i: jasne. {cena}zł płątność blik: 506390975, odbiorca: Maciej Chomicz, w tytule twój nick dc  
+k: już zapłaciłem  
+i: zapraszam vc
