@@ -1,8 +1,11 @@
 import random
-
+import raw_data_to_json
 from PIL import Image, ImageDraw, ImageFont
 import os
 import json
+
+
+raw_data_to_json.create_json_from_raw_data()
 
 
 def gen_text_image(messages):
@@ -92,4 +95,6 @@ with open("logi.json", "r", encoding="utf-8") as file:
     logs = json.load(file)
     for messages in logs['messages']:
         gen_text_image(messages)
-print(len())
+print("Done. Consider tipping. LTC: ")
+print("LgCoPoKDzE22pn2mZj3opd5a9sGJzc35zB")
+input()
