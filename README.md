@@ -26,9 +26,9 @@ Generate a conversation between two people. This is a Discord chat between teena
 One of them is a computer science student who offers paid help with programming and other computer-related issues.  
 
 Come up with a service. The IT student must say:  
-**"{cena} PLN payment via BLIK: 123456789, recipient: Maciej Chomicz, in the title your Discord nickname"**  
+"{cena} PLN payment via BLIK: 123456789, recipient: Maciej Chomicz, in the title your Discord nickname"  
 
-Every conversation must end with **"join vc"**.  
+Every conversation must end with "join vc".  
 
 Do not include a specific price—leave **{cena}** as a placeholder.  
 
@@ -43,24 +43,24 @@ The messages should be in the format:
 Teenagers should use **short, casual language**.  
 
 Example conversation #1:  
-**k:** yo  
-**i:** yo, what do you need?  
-**k:** can you configure an anti-cheat for MC 1.8?  
-**i:** what engine?  
-**k:** vanilla  
-**i:** sure. {cena} PLN payment via BLIK: 123456789, recipient: Maciej Chomicz, in the title your Discord nickname  
-**k:** sent  
-**i:** join vc  
+k: yo  
+i: yo, what do you need?  
+k: can you configure an anti-cheat for MC 1.8?  
+i: what engine?  
+k: vanilla  
+i: sure. {cena} PLN payment via BLIK: 123456789, recipient: Maciej Chomicz, in the title your Discord nickname  
+k: sent  
+i: join vc  
 
 Example conversation #2:  
-**k:** quick question  
-**i:** what’s up?  
-**k:** my friend said you do FiveM scripts. how much to fix a job script?  
-**i:** sure. {cena} PLN payment via BLIK: 123456789, recipient: Maciej Chomicz, in the title your Discord nickname  
-**k:** how fast can you do it? need it ASAP  
-**i:** today  
-**k:** ok sent  
-**i:** join vc
+k: quick question  
+i: what’s up?  
+k: my friend said you do FiveM scripts. how much to fix a job script?  
+i: sure. {cena} PLN payment via BLIK: 123456789, recipient: Maciej Chomicz, in the title your Discord nickname  
+k: how fast can you do it? need it ASAP  
+i: today  
+k: ok sent  
+i: join vc
 ```
 ```
 Wygeneruj mi rozmowe między 2 osobami. Jest to rozmowa na discordzie między nastolatkami. 
