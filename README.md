@@ -85,7 +85,7 @@ Przykładowa rozmowa nr 2:
 k: mam pytanie
 i: jakie?
 k: kolega mi powiedział, że ogarniasz skrypty do fivem. za ile naprawisz skrypt do prac
-i: pewnie. {50}zł płątność blik: 123456789, odbiorca: Maciej Chomicz, w tytule twój nick dc
+i: pewnie. {cena}zł płątność blik: 123456789, odbiorca: Maciej Chomicz, w tytule twój nick dc
 k: a na kiedy byś ogarną? ASAP potrzebuje
 i: jeszcze dziś
 k: dobra przelane. 
