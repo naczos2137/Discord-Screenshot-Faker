@@ -64,7 +64,7 @@ def create_json_from_raw_data():
             messages.append({
                 'user': YOUR_NICK if line.startswith('i:') else emergency_nick,
                 'content': line[3:].replace('{cena}', str(price)),
-                'timestamp': f'{day}.12.2024'
+                'timestamp': f'{str(day).zfill(2)}.{str(datetime.datetime.now().month).zfill(2)}.{datetime.datetime.now().year}'
             })
         logs['messages'].append(messages)
 
