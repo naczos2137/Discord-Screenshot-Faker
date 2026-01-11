@@ -3,6 +3,6 @@ i: siema, jak mogę pomóc?
 k: mam problem z serwerem do GTA V RP, gracze skarżą się na lagi i błędy przy wczytywaniu. ogarniesz to?
 i: jasne, muszę sprawdzić konfigurację serwera, zoptymalizować ustawienia zasobów, żeby mniej lagowało, plus poprawić ładowanie zasobów. masz jakieś konkretne mody, które mogą powodować problemy?
 k: tak, używamy kilku customowych aut i mapek, to może spowalniać.
-i: ok, w takim razie zrobię poprawki w konfiguracji, usunę zbędne pliki i dostosuję ładowanie zasobów do nowych modów. {cena}zł płątność blik: 506390975, odbiorca: Maciej Chomicz, w tytule twój nick dc
+i: ok, w takim razie zrobię poprawki w konfiguracji, usunę zbędne pliki i dostosuję ładowanie zasobów do nowych modów. {cena}zł płątność blik: 123456789, odbiorca: Adam, w tytule twój nick dc
 k: zapłacone
 i: zapraszam vc
